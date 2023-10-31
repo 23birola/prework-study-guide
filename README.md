@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-<a href='./assets/LICENSE'>LICENSE</a>
+<a href='./LICENSE'>LICENSE</a>
