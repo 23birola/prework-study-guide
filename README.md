@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-<a href='./assets/script.js'>LICENSE</a>
+<a href='./assets/LICENSE'>LICENSE</a>
